@@ -2,7 +2,7 @@
 
 In this project I have made a Line Following Robot which follows a black line and move on that line only. 
 
-Components which we used are:-
+Components which we used are:- \n
 Arduino UNO
 L298N Motor Driver Shield
 DC Motors on 2WD Robot Chassis
